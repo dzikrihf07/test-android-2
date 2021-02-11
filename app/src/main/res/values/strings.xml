@@ -2,6 +2,7 @@
     <string name="app_name">testkotln</string>
     <string name="selamat">Selamat Datang Di Aplikasi Nyoba Ini</string>
     <string name="biru">Blue</string>
+    <string name="fauzan">Keluarga Fauzan</string>
     <string name="title_activity_settings">SettingsActivity</string>
 
     <!-- Preference Titles -->
